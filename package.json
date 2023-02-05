@@ -1,0 +1,16 @@
+{
+  "name": "tinman-altitude-conversion-calculator",
+  "type": "module",
+  "version": "1.0.0",
+  "files": ["lib/**/*"],
+  "description": "Tinman Altitude Conversion Calculator, for track and field / athletics times run at altitude",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "AGPL-3.0-only",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
